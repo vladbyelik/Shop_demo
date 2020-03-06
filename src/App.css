@@ -1,0 +1,44 @@
+.section {
+  background: linear-gradient(#d8d3d3, grey);
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+.headline {
+  text-align: center;
+  margin: 0;
+  color: red;
+}
+
+.shop {
+  display: flex;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.product-column, .basket {
+  display: flex;
+  flex-direction: column;
+  min-height: 1313px;
+}
+
+.summ-style {
+  text-align: center;
+  color: brown;
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
+.total {
+  text-align: center;
+  margin: 10px;
+  font-size: 20px;
+}

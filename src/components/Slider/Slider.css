@@ -1,0 +1,7 @@
+.slider-flex {
+    display: flex;
+}
+
+.image-slider div button img {
+    height: 80px;
+}

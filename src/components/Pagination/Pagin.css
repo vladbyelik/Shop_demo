@@ -1,0 +1,10 @@
+.pagin {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 2rem;
+    padding: 15px 0;
+}
+
+.page-num {
+    cursor: pointer;
+}
